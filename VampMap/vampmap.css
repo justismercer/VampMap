@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    background-color: brown;
+}
+
+.play {
+    font-family:'Play', serif;
+    font-size: 48px;
+    color: white;
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
